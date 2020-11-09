@@ -12,10 +12,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/le67802/springcloud-config.git
+          uri: https://github.com/le67802/springcloud2020.git
           search-paths:
           - springcloud-config
-      label: master
+      label: main
 
   rabbitmq:
     host: localhost
