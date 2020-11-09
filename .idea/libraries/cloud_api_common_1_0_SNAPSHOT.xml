@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloud-api-common-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/atguigu/springcloud/cloud-api-common/1.0-SNAPSHOT/cloud-api-common-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+git clone +仓库地址 下载代码
+git commit -m "注释" 提交
+git push -u origin main 推送提交
+git pull 更新代码
